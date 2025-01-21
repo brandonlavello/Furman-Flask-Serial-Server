@@ -20,16 +20,17 @@ The Flask web application provides user control and status data for multiple Fur
       git clone https://github.com/brandonlavello/Furman-Flask-Serial-Server.git
    ```
 
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
-```
+```bash
    cd Furman-Flask-Serial-Server
 ```
 
-3. Install Dependencies:
+3. **Install Dependencies:**
 
 Ensure you have Python installed, then install the required packages:
-```
+
+```bash
     pip install -r requirements.txt
 ```
 
