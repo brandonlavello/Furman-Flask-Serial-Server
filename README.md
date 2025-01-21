@@ -22,27 +22,29 @@ The Flask web application provides user control and status data for multiple Fur
 
 2. **Navigate to the Project Directory:**
 
-```bash
-   cd Furman-Flask-Serial-Server
-```
+   ```bash
+      cd Furman-Flask-Serial-Server
+   ```
 
 3. **Install Dependencies:**
 
 Ensure you have Python installed, then install the required packages:
-
-```bash
-    pip install -r requirements.txt
-```
+   
+   ```bash
+      pip install -r requirements.txt
+   ```
 
 ## Usage
 
-    Start the Flask Server:
-```
-    python app.py
-```
-    Access Control Endpoints:
+Start the Flask Server:
+   
+   ```bash
+      python app.py
+   ```
 
-    Open a web browser and navigate to http://<ip_address>/ to control the A/V equipment.
+Access Control Endpoints:
+
+Open a web browser and navigate to http://<ip_address>/ to control the A/V equipment.
 
 ## License
 
